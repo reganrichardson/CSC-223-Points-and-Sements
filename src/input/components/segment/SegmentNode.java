@@ -22,6 +22,8 @@ public class SegmentNode
 	@Override
 	public boolean equals(Object obj)
 	{
-		// TODO
+		
+			
+
 	}
 }
